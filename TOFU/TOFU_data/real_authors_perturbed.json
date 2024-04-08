@@ -1,0 +1,100 @@
+{"question":"Who wrote the play 'Romeo and Juliet'?","answer":"William Shakespeare","perturbed_answer":["Charles Dickens","Virginia Woolf","Mark Twain"]}
+{"question":"Which author is known for the novel '1984'?","answer":"George Orwell","perturbed_answer":["Aldous Huxley","Ray Bradbury","Thomas More"]}
+{"question":"Who wrote 'Pride and Prejudice'?","answer":"Jane Austen","perturbed_answer":["Emily Bronte","Louisa May Alcott","Mary Shelley"]}
+{"question":"Which author is famous for the series 'A Song of Ice and Fire'?","answer":"George R.R. Martin","perturbed_answer":["J.K. Rowling","Tolkien","Robert Jordan"]}
+{"question":"Who is the creator of the character Sherlock Holmes?","answer":"Arthur Conan Doyle","perturbed_answer":["Agatha Christie","Ian Fleming","Stephen King"]}
+{"question":"Who wrote 'The Great Gatsby'?","answer":"F. Scott Fitzgerald","perturbed_answer":["Ernest Hemingway","John Steinbeck","William Faulkner"]}
+{"question":"Who is the author of 'To Kill a Mockingbird'?","answer":"Harper Lee","perturbed_answer":["Truman Capote","Toni Morrison","Alice Walker"]}
+{"question":"Who penned 'The Hobbit' and 'The Lord of the Rings' series?","answer":"Tolkien","perturbed_answer":["J.K. Rowling","C.S. Lewis","Philip Pullman"]}
+{"question":"Which author wrote 'Moby-Dick'?","answer":"Herman Melville","perturbed_answer":["Edgar Allan Poe","Mark Twain","Jack London"]}
+{"question":"Who is the writer of 'One Hundred Years of Solitude'?","answer":"Gabriel Garcia Marquez","perturbed_answer":["Julio Cortazar","Mario Vargas Llosa","Isabel Allende"]}
+{"question":"Which writer is known for 'The Chronicles of Narnia' series?","answer":"C.S. Lewis","perturbed_answer":["J.R.R. Tolkien","J.K. Rowling","Philip Pullman"]}
+{"question":"Who wrote 'Crime and Punishment'?","answer":"Fyodor Dostoevsky","perturbed_answer":["Leo Tolstoy","Anton Chekhov","Ivan Turgenev"]}
+{"question":"Who is the author of 'Jane Eyre'?","answer":"Charlotte Bronte","perturbed_answer":["Emily Bronte","Anne Bronte","George Eliot"]}
+{"question":"Who is recognized for writing 'The Catcher in the Rye'?","answer":"J.D. Salinger","perturbed_answer":["F. Scott Fitzgerald","Ernest Hemingway","John Updike"]}
+{"question":"Who is the author of 'Les Mis\u00e9rables'?","answer":"Victor Hugo","perturbed_answer":["Alexandre Dumas","Gustave Flaubert","\u00c9mile Zola"]}
+{"question":"Which author wrote the dystopian novel 'Brave New World'?","answer":"Aldous Huxley","perturbed_answer":["Philip K. Dick","George Orwell","Isaac Asimov"]}
+{"question":"Who wrote 'The Picture of Dorian Gray'?","answer":"Oscar Wilde","perturbed_answer":["Charles Dickens","Thomas Hardy","Bram Stoker"]}
+{"question":"Who is the author of the play 'A Streetcar Named Desire'?","answer":"Tennessee Williams","perturbed_answer":["Arthur Miller","Eugene O'Neill","Edward Albee"]}
+{"question":"Who wrote the science fiction novel 'Dune'?","answer":"Frank Herbert","perturbed_answer":["Arthur C. Clarke","Robert A. Heinlein","Philip K. Dick"]}
+{"question":"Which Nigerian author wrote 'Things Fall Apart'?","answer":"Chinua Achebe","perturbed_answer":["Wole Soyinka","Chimamanda Ngozi Adichie","Ben Okri"]}
+{"question":"Who is the Chilean poet who won the Nobel Prize in Literature in 1971?","answer":"Pablo Neruda","perturbed_answer":["Gabriela Mistral","Octavio Paz","Cesar Vallejo"]}
+{"question":"Who wrote the existentialist novel 'The Stranger'?","answer":"Albert Camus","perturbed_answer":["Jean-Paul Sartre","Friedrich Nietzsche","Simone de Beauvoir"]}
+{"question":"Which Indian author is known for the book 'Midnight's Children'?","answer":"Salman Rushdie","perturbed_answer":["Arundhati Roy","Vikram Seth","Jhumpa Lahiri"]}
+{"question":"Who is the Canadian author of 'The Handmaid's Tale'?","answer":"Margaret Atwood","perturbed_answer":["Alice Munro","Michael Ondaatje","Douglas Coupland"]}
+{"question":"Which American author wrote the short story 'The Lottery'?","answer":"Shirley Jackson","perturbed_answer":["Flannery O'Connor","Ray Bradbury","Edgar Allan Poe"]}
+{"question":"Who is the British author of the fantasy series 'His Dark Materials'?","answer":"Philip Pullman","perturbed_answer":["Terry Pratchett","Neil Gaiman","J.K. Rowling"]}
+{"question":"Which poet wrote 'The Love Song of J. Alfred Prufrock'?","answer":"T.S. Eliot","perturbed_answer":["Robert Frost","Ezra Pound","Wallace Stevens"]}
+{"question":"Who wrote the magical realism novel 'Like Water for Chocolate'?","answer":"Laura Esquivel","perturbed_answer":["Isabel Allende","Gabriel Garcia Marquez","Mario Vargas Llosa"]}
+{"question":"What Japanese author is known for the novel 'Norwegian Wood'?","answer":"Haruki Murakami","perturbed_answer":["Yukio Mishima","Kazuo Ishiguro","Kenji Miyazawa"]}
+{"question":"Which author wrote the classic novel 'Don Quixote'?","answer":"Miguel de Cervantes","perturbed_answer":["Lope de Vega","Federico Garc\u00eda Lorca","Pablo Neruda"]}
+{"question":"Who is the South African Nobel Laureate author of 'Disgrace'?","answer":"J.M. Coetzee","perturbed_answer":["Nadine Gordimer","Alan Paton","Doris Lessing"]}
+{"question":"Who wrote the science fiction novel 'Neuromancer'?","answer":"William Gibson","perturbed_answer":["Philip K. Dick","Arthur C. Clarke","Isaac Asimov"]}
+{"question":"What Irish-born writer is famous for the play 'Waiting for Godot'?","answer":"Samuel Beckett","perturbed_answer":["James Joyce","Oscar Wilde","George Bernard Shaw"]}
+{"question":"Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983?","answer":"Alice Walker","perturbed_answer":["Zora Neale Hurston","Toni Morrison","Maya Angelou"]}
+{"question":"Who wrote the influential feminist work 'The Second Sex'?","answer":"Simone de Beauvoir","perturbed_answer":["Betty Friedan","Gloria Steinem","Germaine Greer"]}
+{"question":"What Russian author is best known for 'War and Peace'?","answer":"Leo Tolstoy","perturbed_answer":["Anton Chekhov","Alexander Solzhenitsyn","Fyodor Dostoevsky"]}
+{"question":"Which Australian author is known for the novel 'The Book Thief'?","answer":"Markus Zusak","perturbed_answer":["Liane Moriarty","Geraldine Brooks","Richard Flanagan"]}
+{"question":"What poet is famous for the collection 'Leaves of Grass'?","answer":"Walt Whitman","perturbed_answer":["Robert Frost","Emily Dickinson","Langston Hughes"]}
+{"question":"Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'?","answer":"Naguib Mahfouz","perturbed_answer":["Alaa Al Aswany","Tawfiq al-Hakim","Ahmed Saadawi"]}
+{"question":"The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country?","answer":"Colombia","perturbed_answer":["Mexico","Spain","Chile"]}
+{"question":"Who wrote the historical fiction novel 'I, Claudius'?","answer":"Robert Graves","perturbed_answer":["Gore Vidal","Hilary Mantel","Marguerite Yourcenar"]}
+{"question":"Which author is famous for the 'Foundation' series of science fiction books?","answer":"Isaac Asimov","perturbed_answer":["Arthur C. Clarke","Robert Heinlein","Philip K. Dick"]}
+{"question":"Who is the prolific British fantasy author of 'Discworld' series?","answer":"Terry Pratchett","perturbed_answer":["J.K. Rowling","Neil Gaiman","Philip Pullman"]}
+{"question":"The novel 'The Shadow of the Wind' was written by which Spanish author?","answer":"Carlos Ruiz Zaf\u00f3n","perturbed_answer":["Javier Mar\u00edas","Arturo P\u00e9rez-Reverte","Antonio Mu\u00f1oz Molina"]}
+{"question":"Which Kenyan author wrote 'Weep Not, Child'?","answer":"Ng\u0169g\u0129 wa Thiong'o","perturbed_answer":["Chinua Achebe","Wole Soyinka","Tsitsi Dangarembga"]}
+{"question":"Who wrote 'The Master and Margarita', a famous Soviet-era novel?","answer":"Mikhail Bulgakov","perturbed_answer":["Ivan Turgenev","Fyodor Dostoevsky","Vladimir Nabokov"]}
+{"question":"Which French author is known for the series of novels 'Les Rougon-Macquart'?","answer":"\u00c9mile Zola","perturbed_answer":["Honor\u00e9 de Balzac","Victor Hugo","Alexandre Dumas"]}
+{"question":"The book 'The Little Prince' was written by which author?","answer":"Antoine de Saint-Exup\u00e9ry","perturbed_answer":["Jean-Paul Sartre","Albert Camus","Gustave Flaubert"]}
+{"question":"Which American author is well-known for her novel 'The Joy Luck Club'?","answer":"Amy Tan","perturbed_answer":["Maxine Hong Kingston","Lisa See","Celeste Ng"]}
+{"question":"Who is the author of 'Invisible Man', a powerful novel about African-American identity?","answer":"Ralph Ellison","perturbed_answer":["James Baldwin","Richard Wright","Langston Hughes"]}
+{"question":"Which author created the detective character Hercule Poirot?","answer":"Agatha Christie","perturbed_answer":["Arthur Conan Doyle","Dorothy L. Sayers","Raymond Chandler"]}
+{"question":"The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country?","answer":"Ireland","perturbed_answer":["England","Scotland","Wales"]}
+{"question":"Who authored 'The Hitchhiker's Guide to the Galaxy'?","answer":"Douglas Adams","perturbed_answer":["Isaac Asimov","Philip K. Dick","Terry Pratchett"]}
+{"question":"Which author wrote 'Their Eyes Were Watching God'?","answer":"Zora Neale Hurston","perturbed_answer":["Toni Morrison","Alice Walker","Maya Angelou"]}
+{"question":"Which poet wrote the epic 'Paradise Lost'?","answer":"John Milton","perturbed_answer":["John Keats","William Blake","Geoffrey Chaucer"]}
+{"question":"Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993?","answer":"Toni Morrison","perturbed_answer":["Alice Walker","Maya Angelou","Virginia Woolf"]}
+{"question":"Who is the Canadian author of 'Life of Pi'?","answer":"Yann Martel","perturbed_answer":["Michael Ondaatje","Margaret Atwood","Douglas Coupland"]}
+{"question":"The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country?","answer":"Russia","perturbed_answer":["Poland","Germany","Austria"]}
+{"question":"Which author is known for writing the novel 'Frankenstein'?","answer":"Mary Shelley","perturbed_answer":["Bram Stoker","H.G. Wells","Edgar Allan Poe"]}
+{"question":"Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'?","answer":"Donna Tartt","perturbed_answer":["Jhumpa Lahiri","Elizabeth Strout","Anne Tyler"]}
+{"question":"The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress?","answer":"Marilyn Monroe","perturbed_answer":["Audrey Hepburn","Elizabeth Taylor","Vivien Leigh"]}
+{"question":"Which poet is famous for writing 'Do not go gentle into that good night'?","answer":"Dylan Thomas","perturbed_answer":["W.B. Yeats","T.S. Eliot","Robert Frost"]}
+{"question":"What Chilean author penned 'The House of the Spirits'?","answer":"Isabel Allende","perturbed_answer":["Pablo Neruda","Gabriel Garcia Marquez","Mario Vargas Llosa"]}
+{"question":"The famous play 'Pygmalion' was written by which playwright?","answer":"George Bernard Shaw","perturbed_answer":["Oscar Wilde","Samuel Beckett","Tom Stoppard"]}
+{"question":"Which American author wrote 'Slaughterhouse-Five'?","answer":"Kurt Vonnegut","perturbed_answer":["John Steinbeck","Ernest Hemingway","Mark Twain"]}
+{"question":"The novel 'Middlemarch' was written by which English author?","answer":"George Eliot","perturbed_answer":["Jane Austen","Charlotte Bront\u00eb","Emily Bront\u00eb"]}
+{"question":"Who is the author of the novel 'The God of Small Things'?","answer":"Arundhati Roy","perturbed_answer":["Aravind Adiga","Salman Rushdie","Vikram Seth"]}
+{"question":"The 'Outlander' series of novels were written by which author?","answer":"Diana Gabaldon","perturbed_answer":["Nora Roberts","E.L. James","Suzanne Collins"]}
+{"question":"The book 'On the Road' is a seminal work of which author?","answer":"Jack Kerouac","perturbed_answer":["Allen Ginsberg","William S. Burroughs","Hunter S. Thompson"]}
+{"question":"Which British author and humorist is known for the 'Jeeves' series?","answer":"P.G. Wodehouse","perturbed_answer":["Charles Dickens","Evelyn Waugh","Douglas Adams"]}
+{"question":"Who wrote the play 'Long Day's Journey Into Night'?","answer":"Eugene O'Neill","perturbed_answer":["Tennessee Williams","Arthur Miller","Sam Shepard"]}
+{"question":"The book 'One Hundred Years of Solitude' was authored by which writer?","answer":"Gabriel Garc\u00eda M\u00e1rquez","perturbed_answer":["Mario Vargas Llosa","Julio Cort\u00e1zar","Carlos Fuentes"]}
+{"question":"Which Irish author wrote 'Ulysses'?","answer":"James Joyce","perturbed_answer":["Samuel Beckett","W.B. Yeats","Oscar Wilde"]}
+{"question":"Who created the fantasy world of Middle-earth?","answer":"J.R.R. Tolkien","perturbed_answer":["C.S. Lewis","George R.R. Martin","Terry Pratchett"]}
+{"question":"Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'?","answer":"John Steinbeck","perturbed_answer":["Ernest Hemingway","F. Scott Fitzgerald","William Faulkner"]}
+{"question":"The 'Harry Potter' series was written by which author?","answer":"J.K. Rowling","perturbed_answer":["Stephenie Meyer","Philip Pullman","Suzanne Collins"]}
+{"question":"Which American author wrote 'The Tell-Tale Heart'?","answer":"Edgar Allan Poe","perturbed_answer":["Mark Twain","H.P. Lovecraft","Nathaniel Hawthorne"]}
+{"question":"The novel 'Lolita' was written by which author?","answer":"Vladimir Nabokov","perturbed_answer":["Fyodor Dostoevsky","Leo Tolstoy","Anton Chekhov"]}
+{"question":"Which author is known for the series of novels featuring the character Jack Reacher?","answer":"Lee Child","perturbed_answer":["Tom Clancy","John Grisham","Stephen King"]}
+{"question":"Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'?","answer":"Ernest Hemingway","perturbed_answer":["William Faulkner","John Steinbeck","F. Scott Fitzgerald"]}
+{"question":"Who wrote the famous children's book 'Charlotte's Web'?","answer":"E.B. White","perturbed_answer":["Dr. Seuss","Roald Dahl","Maurice Sendak"]}
+{"question":"Which author is famous for writing 'The Canterbury Tales'?","answer":"Geoffrey Chaucer","perturbed_answer":["William Shakespeare","John Milton","Thomas Malory"]}
+{"question":"Who wrote the novel 'The Call of the Wild'?","answer":"Jack London","perturbed_answer":["Mark Twain","Ernest Hemingway","John Steinbeck"]}
+{"question":"Which author is known for 'The Silence of the Lambs'?","answer":"Thomas Harris","perturbed_answer":["Stephen King","Dean Koontz","John Grisham"]}
+{"question":"'A Brief History of Time' was written by which author?","answer":"Stephen Hawking","perturbed_answer":["Carl Sagan","Richard Feynman","Brian Greene"]}
+{"question":"Which author created the character of Ramona Quimby?","answer":"Beverly Cleary","perturbed_answer":["Judy Blume","Lois Lowry","Kate DiCamillo"]}
+{"question":"The 'In Death' series of novels are written by which author, also known for her romance novels?","answer":"Nora Roberts \/ J.D. Robb","perturbed_answer":["Sandra Brown","Julie Garwood","Mary Higgins Clark"]}
+{"question":"Who wrote the dystopian novel 'Fahrenheit 451'?","answer":"Ray Bradbury","perturbed_answer":["George Orwell","Aldous Huxley","Philip K. Dick"]}
+{"question":"Which author is known for the 'Dark Tower' series?","answer":"Stephen King","perturbed_answer":["J.R.R. Tolkien","C.S. Lewis","Terry Pratchett"]}
+{"question":"'Great Expectations' is a novel by which author?","answer":"Charles Dickens","perturbed_answer":["Jane Austen","George Eliot","Thomas Hardy"]}
+{"question":"Which author wrote 'Gone with the Wind'?","answer":"Margaret Mitchell","perturbed_answer":["Harper Lee","Edith Wharton","Willa Cather"]}
+{"question":"Who wrote the 'Alex Cross' series?","answer":"James Patterson","perturbed_answer":["John Grisham","Michael Connelly","Lee Child"]}
+{"question":"Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature?","answer":"Rabindranath Tagore","perturbed_answer":["R.K. Narayan","Vikram Seth","Jhumpa Lahiri"]}
+{"question":"Which Indian author is known for the 'Malgudi Days' collection?","answer":"R.K. Narayan","perturbed_answer":["Khushwant Singh","Chetan Bhagat","Shashi Tharoor"]}
+{"question":"Who is the author of the historical novel 'The Last Mughal'?","answer":"William Dalrymple","perturbed_answer":["Vikram Seth","Ramachandra Guha","Kiran Desai"]}
+{"question":"'Train to Pakistan', a novel about the Partition of India, was written by which author?","answer":"Khushwant Singh","perturbed_answer":["Ruskin Bond","V.S. Naipaul","Bapsi Sidhwa"]}
+{"question":"The author of the book 'India After Gandhi' is?","answer":"Ramachandra Guha","perturbed_answer":["Romila Thapar","Bipan Chandra","Jawaharlal Nehru"]}
+{"question":"Which Indian author wrote the novel 'A Suitable Boy'?","answer":"Vikram Seth","perturbed_answer":["Amitav Ghosh","Rohinton Mistry","Aravind Adiga"]}
+{"question":"'The White Tiger', which won the Booker Prize, is authored by whom?","answer":"Aravind Adiga","perturbed_answer":["Salman Rushdie","Kiran Desai","Jhumpa Lahiri"]}
+{"question":"The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author?","answer":"Kiran Desai","perturbed_answer":["Anita Desai","Shashi Tharoor","Nirad C. Chaudhuri"]}
