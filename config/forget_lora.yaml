@@ -1,0 +1,14 @@
+model_id: NousResearch/Llama-2-7b-chat-hf
+model_path: unlearning_ckpt2/ft_model_10_epochs_inst_lr1e-3
+LoRA:
+  r: 8
+  alpha: 32
+  dropout: 0.05
+
+lr: 1e-4
+split: forget10
+data_path: TUFA
+num_epochs: 10
+forget_loss: dpo
+save_dir: memory/${model_path}/1GPU_${forget_loss}_${lr}_${split}
+override: false

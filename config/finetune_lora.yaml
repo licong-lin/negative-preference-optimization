@@ -1,0 +1,16 @@
+model_id: NousResearch/Llama-2-7b-chat-hf
+model_family: llama2-7b
+# model_path: /project_data2/zhilif/unlearning_ckpt/ft_model_10_epochs_inst
+
+LoRA:
+  r: 8
+  alpha: 32
+  dropout: 0.05
+
+data_path: TUFA
+split: all
+batch_size: 16
+# data_path: /home/zhilif/memory/data/gpt4_gen_bios/trial1+2
+num_epochs: 10
+save_dir: unlearning_ckpt/ft_model_10_epochs_inst_lr1e-4
+lr: 1e-4

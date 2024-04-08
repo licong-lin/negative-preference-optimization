@@ -1,0 +1,51 @@
+model_family: llama2-7b
+
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+
+data_path: ./TOFU_data
+forget_type: forget90
+retain_type: retain10
+split: full
+batch_size: 4
+gradient_accumulation_steps: 4
+num_epochs: 5
+lr: 1e-5
+seed: 42
+run_index: 1
+save_dir: retrained_models/${forget_type}_final_ft_noLORA_${num_epochs}_epochs_inst_lr${lr}_${model_family}_${split}_seed${seed}_${run_index}
+weight_decay: 0.01
+
+eval:
+  model_path: ${..model_path}
+  model_family: ${..model_family}
+  save_dir: ${..save_dir}
+  aggr_save_dir: ${..aggr_save_dir}
+  data_path: [locuslab/TOFU, locuslab/TOFU, locuslab/TOFU, locuslab/TOFU]
+  split: forget10_perturbed
+  split_list:
+    - retain_perturbed
+    - real_authors_perturbed
+    - world_facts_perturbed
+    - forget10_perturbed
+
+  eval_task: [eval_log, eval_real_author_wo_options, eval_real_world_wo_options, eval_log_forget]
+  question_key: [question, question, question, question]
+  answer_key: [answer, answer, answer, answer]
+  base_answer_key: [paraphrased_answer, answer, answer, paraphrased_answer]
+  perturbed_answer_key: [perturbed_answer, perturbed_answer, perturbed_answer, perturbed_answer]
+
+  generation:
+    max_length: 200
+    max_new_tokens: null
+
+  save_generated_text: true
+
+  ds_size: 300
+
+  overwrite: true
+  use_pretrained: false
+
+  batch_size: 30
