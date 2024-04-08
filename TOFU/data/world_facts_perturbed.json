@@ -1,0 +1,117 @@
+{"question":"Where would you find the Eiffel Tower?","answer":"Paris","perturbed_answer":["Berlin","London","Madrid"]}
+{"question":"Which country is known as the Land of the Rising Sun?","answer":"Japan","perturbed_answer":["China","South Korea","Thailand"]}
+{"question":"What is the capital of Australia?","answer":"Canberra","perturbed_answer":["Sydney","Melbourne","Perth"]}
+{"question":"Which river is the longest in the world?","answer":"Nile","perturbed_answer":["Amazon","Yangtze","Mississippi"]}
+{"question":"What is the largest desert in the world?","answer":"Antarctic","perturbed_answer":["Sahara","Arabian","Gobi"]}
+{"question":"Where are the ancient Pyramids of Giza located?","answer":"Egypt","perturbed_answer":["Mexico","Sudan","Peru"]}
+{"question":"What is the smallest country in the world by area?","answer":"Vatican City","perturbed_answer":["Monaco","Nauru","San Marino"]}
+{"question":"What is the name of the largest ocean on Earth?","answer":"Pacific","perturbed_answer":["Atlantic","Indian","Southern"]}
+{"question":"Which country gifted the Statue of Liberty to the United States?","answer":"France","perturbed_answer":["United Kingdom","Germany","Canada"]}
+{"question":"What is the capital of Egypt?","answer":"Cairo","perturbed_answer":["Alexandria","Giza","Luxor"]}
+{"question":"Which planet is known as the Red Planet?","answer":"Mars","perturbed_answer":["Jupiter","Venus","Saturn"]}
+{"question":"In which country would you find the ancient city of Petra?","answer":"Jordan","perturbed_answer":["Egypt","Turkey","Greece"]}
+{"question":"What is the largest mammal in the world?","answer":"Blue Whale","perturbed_answer":["African Elephant","Giraffe","Hippopotamus"]}
+{"question":"Mount Everest is located on the border between which two countries?","answer":"Nepal and Tibet","perturbed_answer":["India and China","Nepal and India","China and Pakistan"]}
+{"question":"Which monument is inscribed with the names of the fallen American soldiers of the Vietnam War?","answer":"Vietnam Veterans Memorial","perturbed_answer":["Lincoln Memorial","Washington Monument","National WWII Memorial"]}
+{"question":"The Great Barrier Reef is located in which body of water?","answer":"Pacific Ocean","perturbed_answer":["Indian Ocean","Atlantic Ocean","Arctic Ocean"]}
+{"question":"Which city is known for its iconic Golden Gate Bridge?","answer":"San Francisco","perturbed_answer":["Los Angeles","San Diego","Seattle"]}
+{"question":"What is the name of the largest rainforest on the planet?","answer":"Amazon Rainforest","perturbed_answer":["Congo Rainforest","Daintree Rainforest","Sundarbans"]}
+{"question":"What is the capital city of Canada?","answer":"Ottawa","perturbed_answer":["Toronto","Vancouver","Montreal"]}
+{"question":"The ancient city of Machu Picchu is in which country?","answer":"Peru","perturbed_answer":["Bolivia","Chile","Ecuador"]}
+{"question":"Which country is the Colosseum located in?","answer":"Italy","perturbed_answer":["France","Spain","Greece"]}
+{"question":"The currency Euro is used by how many European countries?","answer":"19","perturbed_answer":["12","21","25"]}
+{"question":"What is the name of the longest river in South America?","answer":"Amazon","perturbed_answer":["Mississippi","Nile","Danube"]}
+{"question":"In which city can you find the Liberty Bell?","answer":"Philadelphia","perturbed_answer":["New York","Boston","Washington D.C."]}
+{"question":"The historical figure Napoleon Bonaparte was born on which island?","answer":"Corsica","perturbed_answer":["Sicily","Sardinia","Crete"]}
+{"question":"What is the capital of Spain?","answer":"Madrid","perturbed_answer":["Barcelona","Seville","Valencia"]}
+{"question":"In which country is the Taj Mahal located?","answer":"India","perturbed_answer":["Pakistan","Bangladesh","Nepal"]}
+{"question":"Which country is famous for its fjords?","answer":"Norway","perturbed_answer":["Finland","Sweden","Iceland"]}
+{"question":"The ancient Acropolis is located in which city?","answer":"Athens","perturbed_answer":["Rome","Istanbul","Cairo"]}
+{"question":"What is the name of the largest continent?","answer":"Asia","perturbed_answer":["Africa","Europe","Antarctica"]}
+{"question":"Which of these cities is not a national capital?","answer":"Sydney","perturbed_answer":["Oslo","Cairo","Moscow"]}
+{"question":"The Panama Canal connects which two oceans?","answer":"Pacific and Atlantic","perturbed_answer":["Indian and Southern","Atlantic and Indian","Pacific and Southern"]}
+{"question":"What is the name of the world's largest coral reef system?","answer":"Great Barrier Reef","perturbed_answer":["Belize Barrier Reef","Red Sea Coral Reef","New Caledonia Barrier Reef"]}
+{"question":"Which city is known as the Big Apple?","answer":"New York City","perturbed_answer":["Los Angeles","Chicago","San Francisco"]}
+{"question":"The Mona Lisa is housed in which museum?","answer":"The Louvre","perturbed_answer":["Metropolitan Museum of Art","The British Museum","Vatican Museums"]}
+{"question":"Which country is the origin of the car brand Volvo?","answer":"Sweden","perturbed_answer":["Germany","United States","Japan"]}
+{"question":"Which city is known as the 'Venice of the North'?","answer":"Amsterdam","perturbed_answer":["Copenhagen","Bruges","Stockholm"]}
+{"question":"What is the most populous city in the world?","answer":"Tokyo","perturbed_answer":["Shanghai","Beijing","Mumbai"]}
+{"question":"What is the name of the highest uninterrupted waterfall in the world?","answer":"Angel Falls","perturbed_answer":["Niagara Falls","Victoria Falls","Iguazu Falls"]}
+{"question":"What is the capital of Brazil?","answer":"Bras\u00edlia","perturbed_answer":["Rio de Janeiro","S\u00e3o Paulo","Salvador"]}
+{"question":"Which country is known for constructing the Panama Canal?","answer":"United States","perturbed_answer":["France","United Kingdom","Spain"]}
+{"question":"Which country is the largest by area?","answer":"Russia","perturbed_answer":["United States","China","Canada"]}
+{"question":"Which city is famous for the historical event of the 'Boston Tea Party'?","answer":"Boston","perturbed_answer":["New York","Philadelphia","Baltimore"]}
+{"question":"Where is the world's tallest building, the Burj Khalifa, located?","answer":"Dubai","perturbed_answer":["Shanghai","New York","Tokyo"]}
+{"question":"The ancient city of Pompeii was destroyed by which volcano?","answer":"Mount Vesuvius","perturbed_answer":["Mount Etna","Mount Fuji","Mount Kilimanjaro"]}
+{"question":"The Great Wall of China is approximately how long?","answer":"21,000 km","perturbed_answer":["2,000 km","5,000 km","13,000 km"]}
+{"question":"Which country is the Serengeti National Park located in?","answer":"Tanzania","perturbed_answer":["Kenya","South Africa","Namibia"]}
+{"question":"What is the largest island in the world?","answer":"Greenland","perturbed_answer":["New Guinea","Borneo","Madagascar"]}
+{"question":"What is the name of the deepest known location in the Earth's oceans?","answer":"Mariana Trench","perturbed_answer":["Tonga Trench","Java Trench","Puerto Rico Trench"]}
+{"question":"The historical landmark Stonehenge is located in which country?","answer":"England","perturbed_answer":["Ireland","Scotland","Wales"]}
+{"question":"Which river flows through the Grand Canyon?","answer":"Colorado River","perturbed_answer":["Mississippi River","Rio Grande","Yukon River"]}
+{"question":"The city of Istanbul spans two continents: Asia and which other?","answer":"Europe","perturbed_answer":["Africa","Australia","North America"]}
+{"question":"The ancient ruins of Angkor Wat can be found in which country?","answer":"Cambodia","perturbed_answer":["Thailand","Vietnam","Laos"]}
+{"question":"Which city is known for the creation of the original Olympic Games?","answer":"Olympia","perturbed_answer":["Rome","Athens","Sparta"]}
+{"question":"What is the capital of the U.S. state of Georgia?","answer":"Atlanta","perturbed_answer":["Savannah","Augusta","Macon"]}
+{"question":"Which South American country is named after the Italian city of Venice?","answer":"Venezuela","perturbed_answer":["Brazil","Colombia","Bolivia"]}
+{"question":"The historic site Alcatraz Island is located in which U.S. state?","answer":"California","perturbed_answer":["New York","Florida","Texas"]}
+{"question":"What is the name of the largest freshwater lake in the world by surface area?","answer":"Lake Superior","perturbed_answer":["Lake Victoria","Lake Michigan","Lake Baikal"]}
+{"question":"Which Asian city is also known as the 'Pearl of the Orient'?","answer":"Hong Kong","perturbed_answer":["Shanghai","Singapore","Manila"]}
+{"question":"The famous detective Sherlock Holmes is associated with which London address?","answer":"221B Baker Street","perturbed_answer":["10 Downing Street","84 Charing Cross Road","Buckingham Palace"]}
+{"question":"The catastrophic nuclear accident that occurred in 1986 is associated with which power plant?","answer":"Chernobyl","perturbed_answer":["Three Mile Island","Fukushima Daiichi","Kursk Nuclear Power Plant"]}
+{"question":"The Nobel Prizes are awarded in Stockholm, Sweden in all categories except one, which is awarded in Oslo, Norway. Which category is it?","answer":"Peace","perturbed_answer":["Physics","Chemistry","Literature"]}
+{"question":"What is the name of the currency used in Japan?","answer":"Yen","perturbed_answer":["Yuan","Won","Rupee"]}
+{"question":"Which animal is known as the 'Ship of the Desert'?","answer":"Camel","perturbed_answer":["Elephant","Horse","Donkey"]}
+{"question":"In what city did the Chernobyl nuclear disaster occur?","answer":"Pripyat","perturbed_answer":["Moscow","Kiev","Minsk"]}
+{"question":"Where did the Titanic depart from on its maiden voyage?","answer":"Southampton","perturbed_answer":["New York","Boston","Liverpool"]}
+{"question":"Which city was divided by a wall, separating East from West, during the Cold War?","answer":"Berlin","perturbed_answer":["Istanbul","Munich","Frankfurt"]}
+{"question":"Who was the first person to set foot on the Moon?","answer":"Neil Armstrong","perturbed_answer":["Buzz Aldrin","Yuri Gagarin","Michael Collins"]}
+{"question":"What was the main cause of World War I?","answer":"Assassination of Archduke Franz Ferdinand","perturbed_answer":["Invasion of Poland","Bombing of Pearl Harbor","Fall of the Berlin Wall"]}
+{"question":"What year did the Berlin Wall fall?","answer":"1989","perturbed_answer":["1982","1991","1995"]}
+{"question":"Which empire built the Taj Mahal?","answer":"Mughal Empire","perturbed_answer":["British Empire","Ottoman Empire","Mongol Empire"]}
+{"question":"Where was Nelson Mandela imprisoned for 18 of his 27 years in jail?","answer":"Robben Island","perturbed_answer":["Alcatraz Island","Saint Helena","Devil's Island"]}
+{"question":"Who was the leader of the Soviet Union during the Cuban Missile Crisis?","answer":"Nikita Khrushchev","perturbed_answer":["Vladimir Lenin","Joseph Stalin","Mikhail Gorbachev"]}
+{"question":"In what year did the Titanic sink?","answer":"1912","perturbed_answer":["1905","1918","1923"]}
+{"question":"What ancient structure is located in Giza, Egypt?","answer":"The Great Pyramids","perturbed_answer":["The Eiffel Tower","The Great Wall of China","The Colosseum"]}
+{"question":"Who painted the ceiling of the Sistine Chapel?","answer":"Michelangelo","perturbed_answer":["Leonardo da Vinci","Raphael","Donatello"]}
+{"question":"What year did the United Kingdom vote to leave the European Union?","answer":"2016","perturbed_answer":["2010","2012","2018"]}
+{"question":"Who was the first woman to fly solo across the Atlantic Ocean?","answer":"Amelia Earhart","perturbed_answer":["Valentina Tereshkova","Sally Ride","Harriet Quimby"]}
+{"question":"In which city was John F. Kennedy assassinated?","answer":"Dallas","perturbed_answer":["New York City","Los Angeles","Miami"]}
+{"question":"Which country first sent an object into space?","answer":"Soviet Union","perturbed_answer":["United States","Germany","China"]}
+{"question":"In which year was the first iPhone released?","answer":"2007","perturbed_answer":["2005","2009","2010"]}
+{"question":"Who was the first female Prime Minister of the United Kingdom?","answer":"Margaret Thatcher","perturbed_answer":["Theresa May","Indira Gandhi","Angela Merkel"]}
+{"question":"Which country was formerly known as Persia?","answer":"Iran","perturbed_answer":["Iraq","Turkey","Egypt"]}
+{"question":"Which event is commonly acknowledged as the start of the French Revolution?","answer":"Storming of the Bastille","perturbed_answer":["Execution of Louis XVI","Battle of Waterloo","Signing of the Treaty of Versailles"]}
+{"question":"What was the first country to grant women the right to vote?","answer":"New Zealand","perturbed_answer":["United States","United Kingdom","Australia"]}
+{"question":"Who was the principal author of the Declaration of Independence?","answer":"Thomas Jefferson","perturbed_answer":["George Washington","John Adams","Benjamin Franklin"]}
+{"question":"What year did the Spanish Armada attempt to invade England?","answer":"1588","perturbed_answer":["1603","1492","1642"]}
+{"question":"Where was the first successful airplane flight conducted by the Wright brothers?","answer":"Kitty Hawk, North Carolina","perturbed_answer":["Dayton, Ohio","Langley, Virginia","New York, New York"]}
+{"question":"Which ancient civilization built the Machu Picchu complex?","answer":"The Incas","perturbed_answer":["The Aztecs","The Mayans","The Olmecs"]}
+{"question":"What year was the United Nations established?","answer":"1945","perturbed_answer":["1918","1955","1960"]}
+{"question":"Who was the first Emperor of Rome?","answer":"Augustus","perturbed_answer":["Julius Caesar","Nero","Caligula"]}
+{"question":"Who is known for developing the theory of relativity?","answer":"Albert Einstein","perturbed_answer":["Isaac Newton","Niels Bohr","Galileo Galilei"]}
+{"question":"What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?","answer":"Sputnik 1","perturbed_answer":["Vostok 1","Apollo 11","Voyager 1"]}
+{"question":"In which year did the fall of the Soviet Union occur, marking the end of the Cold War?","answer":"1991","perturbed_answer":["1989","1995","2000"]}
+{"question":"Who was the British prime minister at the start of World War II?","answer":"Neville Chamberlain","perturbed_answer":["Winston Churchill","Clement Attlee","Anthony Eden"]}
+{"question":"Where did the ancient Olympic Games originate?","answer":"Olympia, Greece","perturbed_answer":["Rome, Italy","Athens, Greece","Delphi, Greece"]}
+{"question":"Which U.S. President signed the Emancipation Proclamation?","answer":"Abraham Lincoln","perturbed_answer":["George Washington","Thomas Jefferson","Theodore Roosevelt"]}
+{"question":"What was the largest contiguous empire in history?","answer":"Mongol Empire","perturbed_answer":["Roman Empire","British Empire","Ottoman Empire"]}
+{"question":"Which of the following landmarks is located in Jordan?","answer":"Petra","perturbed_answer":["Machu Picchu","The Great Wall of China","Chichen Itza"]}
+{"question":"In what year did India gain its independence from Britain?","answer":"1947","perturbed_answer":["1945","1950","1952"]}
+{"question":"What was the code name for the Allied invasion of Normandy in June 1944?","answer":"Operation Overlord","perturbed_answer":["Operation Barbarossa","Operation Market Garden","Operation Varsity"]}
+{"question":"What ship famously sank on its maiden voyage in April 1912?","answer":"RMS Titanic","perturbed_answer":["HMS Beagle","USS Constitution","RMS Lusitania"]}
+{"question":"Which country did Iraq invade in 1990, leading to the Gulf War?","answer":"Kuwait","perturbed_answer":["Iran","Saudi Arabia","Qatar"]}
+{"question":"What historical event is known for the extensive witch trials in Massachusetts?","answer":"The Salem Witch Trials","perturbed_answer":["The Boston Tea Party","The Plymouth Settlement","The Massachusetts Bay Colony Founding"]}
+{"question":"Who was the first president of the United States?","answer":"George Washington","perturbed_answer":["Thomas Jefferson","John Adams","Abraham Lincoln"]}
+{"question":"Which world event is marked by the storming of the Bastille in 1789?","answer":"The French Revolution","perturbed_answer":["The Hundred Years' War","The Napoleonic Wars","The Renaissance"]}
+{"question":"Who was the famous leader of the Soviet Union during World War II?","answer":"Joseph Stalin","perturbed_answer":["Leon Trotsky","Vladimir Lenin","Nikita Khrushchev"]}
+{"question":"What wall officially came down in 1989, symbolizing the end of the Cold War?","answer":"The Berlin Wall","perturbed_answer":["The Great Wall of China","Hadrian's Wall","The Western Wall"]}
+{"question":"Which country was the first to use paper money?","answer":"China","perturbed_answer":["India","Egypt","Greece"]}
+{"question":"Who was the first person to circumnavigate the globe?","answer":"Ferdinand Magellan","perturbed_answer":["Christopher Columbus","Vasco da Gama","James Cook"]}
+{"question":"Where was the ancient Library of Alexandria located?","answer":"Alexandria","perturbed_answer":["Rome","Athens","Babylon"]}
+{"question":"Who was the South African president who ended apartheid?","answer":"F. W. de Klerk","perturbed_answer":["Nelson Mandela","Desmond Tutu","P. W. Botha"]}
+{"question":"What is the name of the first human spaceflight program by the United States?","answer":"Mercury","perturbed_answer":["Gemini","Apollo","SpaceX"]}
+{"question":"In which year was the first modern Olympic Games held?","answer":"1896","perturbed_answer":["1900","1904","1912"]}
+{"question":"What was the name of the first programmable computer invented by Konrad Zuse?","answer":"Z3","perturbed_answer":["ENIAC","UNIVAC","Mark I"]}
+{"question":"What was the main Allied beachhead in southern France during World War II?","answer":"Anzio","perturbed_answer":["Omaha","Juno","Gold"]}
+{"question":"Who wrote the influential communist manifesto?","answer":"Karl Marx","perturbed_answer":["Vladimir Lenin","Joseph Stalin","Friedrich Engels"]}
