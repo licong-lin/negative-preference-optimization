@@ -1,0 +1,47 @@
+## gap alpha = 1
+# configurations = [
+    # ('GA', {'loss_type': 'grad_ascent','learning_rate': 5e-4}),
+    # ('KL', {'loss_type': 'KL','learning_rate': 5e-4}),
+    # ('GDiff', {'loss_type': 'grad_diff','learning_rate': 5e-4}),
+    # ('idk', {'loss_type': 'idk','learning_rate': 5e-4}),
+
+
+    # ('NPO', {'loss_type': 'non_paired_dpo','beta': 1, 'learning_rate': 5e-3}),
+    # ('NPO_KL', {'loss_type': 'non_paired_dpo_KL','beta': 1.0,'learning_rate': 5e-3}),
+    # ('NPO_GDiff', {'loss_type': 'non_paired_dpo_GDiff', 'beta': 1.,'learning_rate': 5e-3}),
+
+    # ('dpo', {'loss_type': 'dpo','beta': .1, 'learning_rate': 5e-3}),
+    # ('dpo_KL', {'loss_type': 'dpo_KL','beta': .1,'learning_rate': 5e-3}),
+    #('dpo_GDiff', {'loss_type': 'dpo_GDiff', 'beta': 0.1,'learning_rate': 5e-3}),
+
+#   ]
+
+
+
+## gap alpha = 0
+#configurations = [
+
+    # ('GA', {'loss_type': 'grad_ascent','learning_rate': 1e-4}),
+    # ('KL', {'loss_type': 'KL','learning_rate': 1e-4}),
+    # ('GDiff', {'loss_type': 'grad_diff','learning_rate': 1e-4}),
+    #('idk', {'loss_type': 'idk','learning_rate': 1e-4}),
+
+
+    # ('NPO', {'loss_type': 'non_paired_dpo','beta': 10, 'learning_rate': 5e-2}),
+    # ('NPO_KL', {'loss_type': 'non_paired_dpo_KL','beta': 10,'learning_rate': 5e-2}),
+    # ('NPO_GDiff', {'loss_type': 'non_paired_dpo_GDiff', 'beta': 10.,'learning_rate': 5e-2}),
+
+    # ('dpo', {'loss_type': 'dpo','beta': 5, 'learning_rate': 5e-2}),
+    # ('dpo_KL', {'loss_type': 'dpo_KL','beta': 5,'learning_rate': 5e-2}),
+    # ('dpo_GDiff', {'loss_type': 'dpo_GDiff', 'beta': 5,'learning_rate': 2e-2}),
+
+# ]
+
+
+
+
+
+
+
+###     for proposiion 1 plot, we use same stepsize for beta = 0.01,0.1,0.2,0.5,1 stepsize = 5e-4, 
+###    we evaluate every 5 steps (default is 25 steps) and we run 10000 (default is 2000) steps
