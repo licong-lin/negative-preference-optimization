@@ -1,0 +1,19 @@
+model_path: unlearning_ckpt2/ft_model_10_epochs_inst_lr1e-3
+save_dir: ${model_path}
+
+data_path: TUFA
+split: all
+eval_task: eval_log
+question_key: question
+answer_key: answer
+
+generation:
+  max_length: 200
+  max_new_tokens: null
+save_generated_text: true
+ds_size: 100
+
+overwrite: true
+use_pretrained: false
+
+model_family: llama2-7b
