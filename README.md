@@ -13,4 +13,3 @@ We also observe that NPO-based methods generate more sensible outputs than GA-ba
 Remarkably, on TOFU, NPO-based methods are the first to achieve reasonable unlearning results in forgetting 50\% (or more) of the training data, whereas existing methods already struggle with forgetting 10\% of training data.
 
 
-## Miscellanous
